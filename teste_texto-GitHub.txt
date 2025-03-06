@@ -2,6 +2,24 @@ Lógica de Programação
 
 Versionamento
 
+COMANDOS PARA VERSIONAMENTO LOCAL
+
 git init = inicializa o versionamento
+
 git add .= verificar as alterações (lista as alterações encontradas)
+
+git commit = salvar as alterações encontradas (vai salvar as modificações - sempre incluir um comentário entre " ")
+	exemplo = git commit -m "meu primeiro versionamento"
+
+shift insert = comando de "colar" seleção
+
+COMANDOS PARA VERSIONAMENTO REMOTO
+
+git remote add origin = linkar com o repositório remoto
+	exemplo = git remote add origin https://github.com/BarrosDataScience/First-Repository_6MAR2025.git
+
+
+git push origin main = para enviar as alterações
+	exemplo git push origin master/main
+
 
