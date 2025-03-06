@@ -1,0 +1,7 @@
+Lógica de Programação
+
+Versionamento
+
+git init = inicializa o versionamento
+git add .= verificar as alterações (lista as alterações encontradas)
+
